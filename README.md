@@ -9,9 +9,6 @@ Te proporcionaremos las funcionalidades que buscamos implementar, pero eres libr
 ### Pantalla principal
 La aplicación deberá tener las siguientes funcionalidades:
 
-![Preview](./images/main-screen.png)
-
-
 * Como usuario, quiero poder seleccionar la dificultad de la trivia (fácil, media o difícil).
 * Como usuario, quiero tener la opción de seleccionar una categoría específica de preguntas sobre videojuegos de entre las disponibles en la API.
 * Como usuario, quiero que se me muestre una pregunta con varias opciones de respuesta y poder seleccionar una de ellas.
@@ -29,22 +26,29 @@ La aplicación deberá tener las siguientes funcionalidades:
 
 ### Requisitos Técnicos
 
+* Utiliza Vue2.js y la API de @[Open Trivia Database](https://opentdb.com/)! para obtener las preguntas de la trivia.
+* La interfaz de usuario debe ser atractiva y amigable para el usuario, con un diseño responsivo.
+* La aplicación debe manejar errores y situaciones inesperadas de manera adecuada.
+* Se valorará la calidad del código y la organización del proyecto.
+
+### Entrega 📋
+
 * Deberás proporcionarnos un enlace al repositorio que deberemos clonar.
 * Incluye los pasos de configuración del proyecto en un README.md para que podamos ejecutar el proyecto.
 * Se valorará positivamente la inclusión de una pequeña documentación explicando las decisiones de diseño y tecnologías utilizadas.
 
-### Requisitos Técnicos
+### Sugerencias 🧐
 
-* Utiliza Vue2.js y la API de Open Trivia Database para obtener las preguntas de la trivia.
 * Presta especial atención a la calidad del código, el formato y las mejores prácticas.
 * Comienza a utilizar el repositorio desde el principio, no subas todo el proyecto en un solo commit.
-* Te brindamos (4hrs) para realizar el entregable
 
 ### Puntos extra 🌟
+
 * La aplicación está implementada y activa
 * Se evaluará el tiempo de envío de la prueba VS el tiempo en que nos envías tu entregable 🕒
 
 ### Millas extra 🥇
+
 * Optimizaciones de rendimiento
 * Características sorprendentes que no esperamos obtener 😉
 
