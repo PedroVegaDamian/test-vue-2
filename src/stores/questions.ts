@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia'
-import { Question } from '@/interfaces/question'
+import type { Question } from '@/interfaces/question'
 
 interface State {
   questions: Question[]
