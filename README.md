@@ -10,7 +10,7 @@ Completa las preguntas de este maravilloso juego de trivia 😎.
   - Preguntas a responder (tienes una oportunidad para responder correctamente)
   - Al finalizar podrás ver el puntaje que obtuviste.
 
-- Está desarrollada con [Vue](https://v2.vuejs.org/) y [Pinia](https://pinia.vuejs.org/).
+- Está desarrollada con [Vue 2](https://v2.vuejs.org/) y [Pinia](https://pinia.vuejs.org/).
 
 ### Tecnologías utilizadas 👨‍💻
 
@@ -20,5 +20,5 @@ Completa las preguntas de este maravilloso juego de trivia 😎.
 
 ### Clona el repositorio e instala las dependencias
 
-- yarn o npm instal
+- yarn o npm install
 - yarn dev o npm run dev
